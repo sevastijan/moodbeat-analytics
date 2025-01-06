@@ -18,6 +18,7 @@ public class VoiceAnalysisService {
     /**
      Next factor to implements steps:
 
+     Analysis and interpretation of the words spoken
      Variability of voice pitch (variability) - indicates emotionality
      Pauses in speaking - may indicate uncertainty
      Signal energy in different frequency bands
